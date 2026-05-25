@@ -2,5 +2,8 @@ streamlit
 pandas
 numpy
 plotly
+scikit-learn
 statsmodels
-openpyxl
+xgboost
+networkx
+matplotlib
